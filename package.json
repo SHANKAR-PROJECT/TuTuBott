@@ -31,6 +31,7 @@
         "extract-zip": "",
         "fb-tools": "^2.0.14",
         "fca-horizon-remake": "^4.1.0",
+        "fca-disme": "git+https://github.com/dongdev06/fca-disme.git",
         "figlet": "",
         "fs": "0.0.1-security",
         "fs-extra": "",
